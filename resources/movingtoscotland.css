@@ -1,0 +1,66 @@
+
+/*Ocean Blue: #014B66
+Beach Tan:#FFEDC5
+Blue:#556577
+Green: #42461F
+Orange: #CE6F22
+*/
+
+
+/*Body*/
+body{
+	background-color: #FFEDC5;
+	padding: 20px 20px 20px 20px;
+}
+
+a:hover {
+	color:#CE6F22;
+}
+
+/*Headings*/
+h1{
+	text-align: center;
+	color: #556577
+}
+
+h2{
+	text-align: center;
+	color:#556577;
+}
+
+/*Scotland Photo*/
+div.scotland {
+	text-align: center;
+	padding: 25px;
+}
+
+/*Table*/
+table{
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+	th,td{
+		border-style: solid;
+		border-width: 1px;
+		text-align: center;
+		padding: 20px;
+}
+
+/*Narin Photo*/
+div.scotland2 {
+	text-align: center;
+	padding: 25px;
+}
+
+
+/*List*/
+.city{
+	color: #CE6F22;
+	background: #42461F;
+	padding:20px;
+	margin: auto;
+	width: 150px;
+	list-style-position: inside; 
+}
